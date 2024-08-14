@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cipher Decoder/*
+!/Cipher Decoder/task/
+/Cipher Decoder/task/*
+!/Cipher Decoder/task/main.go
